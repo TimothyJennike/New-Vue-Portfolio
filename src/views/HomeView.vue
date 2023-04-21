@@ -31,6 +31,8 @@ export default {
 
 .display-2 {
     padding-top: 250px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 #h3 {

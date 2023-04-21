@@ -23,7 +23,7 @@
                       <router-link to="/resume">Resume</router-link>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="./html_files/testimonial.html"><i class="bi bi-person-rolodex">Testimonials</i></a>
+                        <router-link to="/testimonials">Testimonials</router-link>
                       </li>
                       <li class="nav-item">
                         <a class="nav-link" href="./html_files/projects.html"><i class="bi bi-archive">Projects</i></a>
@@ -59,6 +59,10 @@ h5{
   color: white;
   font-family: 'Bruno Ace SC', cursive;
   text-decoration: underline white;
+}
+
+.navbar {
+  box-shadow: 0 2px 1px whitesmoke;
 }
 
 .nav-item{

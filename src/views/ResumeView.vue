@@ -1,6 +1,8 @@
 <template>
 
-<body>
+  <body>
+  <h1>Work & Education</h1>
+  <h6>Below are my work and education I've acquired over the years</h6>
 <div class="timeline">
   <div class="container left">
     <div class="content">
@@ -10,8 +12,38 @@
   </div>
   <div class="container right">
     <div class="content">
-      <h2>2016</h2>
-      <p>Lorem ipsum..</p>
+      <h2>Mores Envelopes-2018/2019</h2>
+      <p>Employed to cut the stamps into individual pieces and put them onto the envelopes.</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Okuhlaza Suppliers-2019/2020</h2>
+      <p>Done an internship where i was Office Admin Assistant, where i learnt the basics of working/learning more about the work environment.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Rev Transcribing-2020/2021</h2>
+      <p>Transcribing job where i worked as a freelancer to transcribe audio and videos for many clients around the world</p>
+    </div>
+  </div>
+  <div class="container left">
+    <div class="content">
+      <h2>Statistics South Africa-2021/2022</h2>
+      <p>>I worked for StatsSa as a supervisor under a term contract where i had to go door-to-door interviewing people for Census purposes.</p>
+    </div>
+  </div>
+  <div class="container right">
+    <div class="content">
+      <h2>Life Choices Academy-2022/2023</h2>
+      <p>Completed a coding course with Life Choices Academy where i learned the technical and various other skills such as work ethics and professional development.</p>
+    </div>
+  </div>
+  <div class="container left pb-3">
+    <div class="content">
+      <h2>Life Choices Studio-2023/present</h2>
+      <p>Currently in Life Choices Studio where i am on a learning journey where will learn about UI/UX, Wordpress and SEO</p>
     </div>
   </div>
 </div>
@@ -34,12 +66,29 @@ export default {
 
 /* Set a background color */
 body {
-  background-color: #474e5d;
+  background-image: url(https://i.postimg.cc/288khhs4/new-background-1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: 'Bruno Ace SC', cursive;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-size: 4rem;
+  -webkit-text-stroke: 2px;
+  -webkit-text-stroke-color: black;
+  padding-top: 20px;
 }
 
 h2 {
     text-decoration: underline black;
+}
+
+h6{
+  text-align: center;
+  font-size: larger;
+  color: white;
 }
 /* The actual timeline (the vertical ruler) */
 .timeline {
@@ -76,7 +125,7 @@ h2 {
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid rgb(113, 2, 113);
   top: 15px;
   border-radius: 50%;
   z-index: 1;
@@ -84,12 +133,12 @@ h2 {
 
 /* Place the container to the left */
 .left {
-  right: 25.5%;
+  right: 25.4%;
 }
 
 /* Place the container to the right */
 .right {
-  left: 25.5%;
+  left: 25.4%;
 }
 
 /* Add arrows to the left container (pointing right) */
