@@ -23,13 +23,13 @@
                       <router-link to="/resume">Resume</router-link>
                       </li>
                       <li class="nav-item">
+                      <router-link to="/skills">Skills</router-link>
+                      </li>
+                      <li class="nav-item">
                         <router-link to="/testimonials">Testimonials</router-link>
                       </li>
                       <li class="nav-item">
-                        <a class="nav-link" href="./html_files/projects.html"><i class="bi bi-archive">Projects</i></a>
-                      </li>
-                      <li class="nav-item">
-                        <a class="nav-link" href="./html_files/contact.html"><i class="bi bi-telephone">Contact</i></a>
+                        <router-link to="/contact">Contact</router-link>
                       </li>
                     </ul>
                 </div>
