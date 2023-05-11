@@ -4,43 +4,43 @@
   <h1>Work & Education</h1>
   <h6>Below are my work and education I've acquired over the years</h6>
 <div class="timeline">
-  <div class="container left">
+  <div class="container left" data-aos="fade-right">
     <div class="content">
       <h2>Plumstead High School-2014/2018</h2>
       <p>I matriculated from Plumstead High at 2018 with a Bachelors pass.</p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container right" data-aos="fade-left">
     <div class="content">
       <h2>Mores Envelopes-2018/2019</h2>
       <p>Employed to cut the stamps into individual pieces and put them onto the envelopes.</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container left" data-aos="fade-right">
     <div class="content">
       <h2>Okuhlaza Suppliers-2019/2020</h2>
       <p>Done an internship where i was Office Admin Assistant, where i learnt the basics of working/learning more about the work environment.</p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container right" data-aos="fade-left">
     <div class="content">
       <h2>Rev Transcribing-2020/2021</h2>
       <p>Transcribing job where i worked as a freelancer to transcribe audio and videos for many clients around the world</p>
     </div>
   </div>
-  <div class="container left">
+  <div class="container left" data-aos="fade-right">
     <div class="content">
       <h2>Statistics South Africa-2021/2022</h2>
-      <p>>I worked for StatsSa as a supervisor under a term contract where i had to go door-to-door interviewing people for Census purposes.</p>
+      <p>I worked for StatsSa as a supervisor under a term contract where i had to go door-to-door interviewing people for Census purposes.</p>
     </div>
   </div>
-  <div class="container right">
+  <div class="container right" data-aos="fade-left">
     <div class="content">
       <h2>Life Choices Academy-2022/2023</h2>
       <p>Completed a coding course with Life Choices Academy where i learned the technical and various other skills such as work ethics and professional development.</p>
     </div>
   </div>
-  <div class="container left pb-3">
+  <div class="container left pb-3" data-aos="fade-right">
     <div class="content">
       <h2>Life Choices Studio-2023/present</h2>
       <p>Currently in Life Choices Studio where i am on a learning journey where will learn about UI/UX, Wordpress and SEO</p>
@@ -127,7 +127,7 @@ h6{
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid rgb(113, 2, 113);
+  border: 4px solid black;
   top: 15px;
   border-radius: 50%;
   z-index: 1;

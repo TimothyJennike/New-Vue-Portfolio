@@ -43,7 +43,7 @@
                               </div> 
                             </div> 
                           <div class="col-md-12 mt-4">                         
-                              <input type="submit" class="btn btn-primary btn-send pt-2 btn-block" value="Send Message" >
+                              <input type="submit" class="btn btn-send pt-2 btn-block" value="Send Message" >
                             </div>                     
                         </div>
                     </form>
@@ -88,8 +88,20 @@ export default {
 
 #contact .btn{
   margin-left: 320px;
+  background-color: #302863;
+  color: white;
 }
 
+#contact .btn:hover {
+    background-color: #576C93;
+    color: white;
+    box-shadow: 4px 4px 0px 0px black;
+    border-color: black;
+}
 
-
+@media screen and (max-width: 720px) {
+    #contact .btn {
+        margin-left: 15%;
+    }
+}
 </style>
