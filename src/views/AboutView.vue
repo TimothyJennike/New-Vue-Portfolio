@@ -33,14 +33,14 @@
                 </div>
 
                 <div class="col-6 information text-lead bg-gradient">
-                   <p>Hi, Im Timothy Jennike, a 22 year old aspiring developer from Bayview, Cape Town. Coding is a topic that i show alot of interest in because I enjoy problem-solving and you really get to show your creative side when designing web pages. To me thats the best of both worlds.Since a young age my dream has been to become a video game developer and thats what i want to chase. In my free time i enjoy upskilling myself in coding by watching videos about things I want a better understanding of or I'll spend time with my friends gaming or going on hikes.</p>
+                   <p>Hi, Im Timothy Jennike, a 22 year old aspiring developer from Bayview, Cape Town. Coding is a topic that i show alot of interest in because I enjoy problem-solving and you really get to show your creative side when designing web pages. To me thats the best of both worlds. In my free time i enjoy upskilling myself in coding by watching videos about things I want a better understanding of or I'll spend time with my friends gaming, hiking or going for a drink or two.</p>
                      <p><i class="bi bi-calendar-heart g-5">  27 October 2000</i></p>
                       <p><i class="bi bi-whatsapp g-5">  +27 73 985 3441</i></p>
                       <p><i class="bi bi-envelope">  jenniketimothy00@gmail.com</i></p>
-                      <div class="icons">
+                      <!-- <div class="icons">
                       <a href="https://github.com/TimothyJennike" target="_blank"><i class="bi bi-github"></i></a>
                       <a href="https://www.instagram.com/timmy_turner27/" target="_blank"><i class="bi bi-instagram"></i></a>
-                     </div>
+                     </div> -->
                     </div>
                   </div>
                 </div>

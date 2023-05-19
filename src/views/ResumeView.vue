@@ -43,7 +43,7 @@
   <div class="container left pb-3" data-aos="fade-right">
     <div class="content">
       <h2>Life Choices Studio-2023/present</h2>
-      <p>Currently in Life Choices Studio where i am on a learning journey where will learn about UI/UX, Wordpress and SEO</p>
+      <p>Currently in Life Choices Studio where i am on a learning journey where I will learn about UI/UX, Wordpress, SEO and PHP</p>
     </div>
   </div>
 </div>

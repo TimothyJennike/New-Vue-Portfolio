@@ -18,11 +18,11 @@
 
         <div class="col-4">
             <div class="card" style="width: 18rem;">
-                <img src="https://i.postimg.cc/L6wwTXH9/Screenshot-2023-05-11-150259.png" class="card-img-top" height="160px">
+                <img src="https://i.postimg.cc/C5fVLX7m/Screenshot-2023-05-18-125440.png" class="card-img-top" height="160px">
                 <div class="card-body">
-                  <h5 class="card-title text-center">Capstone</h5>
-                  <a href="https://github.com/TimothyJennike/Game-O-Holics" target="_blank" class="btn github">Github</a>
-                  <a href="https://insert-coins-12639.web.app/" target="_blank" class="btn netlify">Netlify</a>
+                  <h5 class="card-title text-center">Calculator</h5>
+                  <a href="https://github.com/TimothyJennike/Calculator" target="_blank" class="btn github">Github</a>
+                  <a href="https://timothy-calculator.netlify.app" target="_blank" class="btn netlify">Netlify</a>
                 </div>
               </div>
         </div>
